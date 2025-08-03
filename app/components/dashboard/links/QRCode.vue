@@ -9,7 +9,7 @@ const props = defineProps({
   },
   image: {
     type: String,
-    default: '',
+    default: 'https://redir.immortalmc.net/file-server-logo-96x96-png',
   },
 })
 const color = ref('#000000')
