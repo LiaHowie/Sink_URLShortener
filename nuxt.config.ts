@@ -24,7 +24,7 @@ export default defineNuxtConfig({
     redirectStatusCode: '301',
     linkCacheTtl: 60,
     redirectWithQuery: false,
-    homeURL: '',
+    homeURL: 'https://www.immortalmc.net/',
     cfAccountId: '',
     cfApiToken: '',
     dataset: 'sink',
